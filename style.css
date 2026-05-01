@@ -1,0 +1,11 @@
+body { 
+    background: #000; 
+    margin: 0; 
+    overflow: hidden; 
+    height: 100vh; 
+}
+canvas { 
+    filter: contrast(1.2) brightness(1.2); 
+    display: block; 
+}
+
