@@ -2,6 +2,10 @@
 
 A surreal, atmospheric 2D Canvas animation featuring a walking cat traversing an ever-changing landscape of glitchy buildings, white-bush trees, and shifting weather cycles.
 
+## 🔗 Live Demo
+[View the animation here](https://amulyasandhu.github.io/Cat-Parkour/)
+
+
 ## ✨ Features
 - **Dynamic Weather System**: Cycles through clear firefly nights, cloudy mists, and white-noise rain.
 - **Procedural Architecture**: Buildings are constructed from kinetic text strings ("VOID", "NULL", "PROTO").
